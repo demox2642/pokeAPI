@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPokemons</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_pokemon">Поиск покемона</string>
+    <string name="random_pokemon">Случайный покемон</string>
+    <string name="title_tool">Мой любимый покемон</string>
+    <string name="empty_favorite_pokemon_message">Ваш список любимых покемонов пуст. Добавьте покемона через пункты меню.</string>
+    <string name="search_text">Поиск</string>
+</resources>
